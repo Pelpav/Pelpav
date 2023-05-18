@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pelpav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me : Whatsapp : 0022374429996
 
 <!---
