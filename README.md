@@ -6,10 +6,10 @@
 
 Applications web, backends métier et intégrations — de l’interface utilisateur jusqu’au déploiement.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pelpav.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pelpav.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Pelpav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pelpav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Nouboukpo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-pavlov-elom-nouboukpo-716a682a6/)
 [![X](https://img.shields.io/badge/X-elpav2022-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elpav2022)
-[![Location](https://img.shields.io/badge/Bamako-Mali-228B22?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Pelpav)
 
 </div>
 
@@ -69,17 +69,15 @@ Mes récents travaux couvrent le **web moderne** (TypeScript, Next.js, React), l
 
 ## Projets sélectionnés
 
-| Projet | Rôle / sujet | Stack | Liens |
-| :--- | :--- | :--- | :--- |
-| **SOGICA** | Site vitrine et CMS pour une entreprise de BTP au Mali (génie civil, construction métallique, équipements de contrôle routier). | Next.js, TypeScript, Payload CMS, PostgreSQL | [Code](https://github.com/Pelpav/sogica-website) · [Démo](https://sogica-website.vercel.app) |
-| **Zella OCPP** | Plateforme CSMS de recharge de véhicules électriques, protocole OCPP 1.6-J, architecture multi-pays. | Java, Spring Boot, Next.js, PostgreSQL, Redis, Docker | [Code](https://github.com/Pelpav/zella-ocpp) |
-| **G3Pharma** | Application de gestion pharmaceutique (stocks, authentification, back-office). | PHP, Laravel | [Code](https://github.com/Pelpav/G3Pharma) |
-| **Concentration Tracker** | Suivi temps réel de la concentration et de l’humeur via webcam (Face Mesh, EAR/MAR). | Python, OpenCV, MediaPipe | [Code](https://github.com/Pelpav/concentration-tracker) |
-| **MeteoNow** | Application météo en temps réel. | PHP | [Code](https://github.com/Pelpav/Site-meteo) |
-| **TaskMaster** | Gestionnaire de tâches. | JavaScript | [Code](https://github.com/Pelpav/TaskMaster) |
-| **Dames** | Jeu de dames. | AngularJS | [Code](https://github.com/Pelpav/Dames) |
+Derniers sites mis en production, du plus récent au plus ancien.
 
-D’autres dépôts portent sur l’e-commerce, la gestion d’alimentation, des quiz et des expérimentations Angular / TypeScript — voir [l’ensemble des dépôts](https://github.com/Pelpav?tab=repositories).
+| Projet | Description | En ligne |
+| :--- | :--- | :--- |
+| **SOGICA** | Site vitrine d’une entreprise de BTP au Mali : génie civil, construction métallique et équipements de contrôle routier. | [sogica-mali.com](https://sogica-mali.com) |
+| **OPTIMAL Trading** | Vitrine B2B : distribution industrielle, matériaux de carrière et solutions de pesage Giropes au Mali. | [Voir le site](https://b2b-premium-identity-o-ptimal.vercel.app) |
+| **ImmoMali** | Plateforme immobilière : recherche et filtrage de biens. | [immobilier.pelpav.dev](https://immobilier.pelpav.dev) |
+| **Bekamobili** | Catalogue de vente de véhicules à Bamako. | [bekamobili.pelpav.dev](https://bekamobili.pelpav.dev) |
+| **Service Construction Mali** | Site vitrine BTP : bâtiments, travaux publics et infrastructures. | [serviceconstructionmali.com](https://www.serviceconstructionmali.com) |
 
 ---
 
@@ -98,6 +96,7 @@ D’autres dépôts portent sur l’e-commerce, la gestion d’alimentation, des
 
 Ouvert aux collaborations, missions et échanges techniques.
 
+- Portfolio : [pelpav.dev](https://pelpav.dev)
 - LinkedIn : [christian-pavlov-elom-nouboukpo](https://www.linkedin.com/in/christian-pavlov-elom-nouboukpo-716a682a6/)
 - GitHub : [@Pelpav](https://github.com/Pelpav)
 - X : [@elpav2022](https://x.com/elpav2022)
