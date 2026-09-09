@@ -74,10 +74,8 @@ Derniers sites mis en production, du plus récent au plus ancien.
 | Projet | Description | En ligne |
 | :--- | :--- | :--- |
 | **SOGICA** | Site vitrine d’une entreprise de BTP au Mali : génie civil, construction métallique et équipements de contrôle routier. | [sogica-mali.com](https://sogica-mali.com) |
-| **KAFA Mining Services** | Site corporate pour un partenaire minier intégré (formation, construction, logistique, RH) basé à Bamako. | [Voir le site](https://workspace-theta-lemon.vercel.app) |
 | **OPTIMAL Trading** | Vitrine B2B : distribution industrielle, matériaux de carrière et solutions de pesage Giropes au Mali. | [Voir le site](https://b2b-premium-identity-o-ptimal.vercel.app) |
 | **ImmoMali** | Plateforme immobilière : recherche et filtrage de biens. | [immobilier.pelpav.dev](https://immobilier.pelpav.dev) |
-| **ANAIZAN mali** | Site hybride solutions digitales, import-export et boutique, ciblant le Mali et l’Afrique de l’Ouest. | [anaizan.vercel.app](https://anaizan.vercel.app) |
 | **Bekamobili** | Catalogue de vente de véhicules à Bamako. | [bekamobili.pelpav.dev](https://bekamobili.pelpav.dev) |
 | **Service Construction Mali** | Site vitrine BTP : bâtiments, travaux publics et infrastructures. | [serviceconstructionmali.com](https://www.serviceconstructionmali.com) |
 
